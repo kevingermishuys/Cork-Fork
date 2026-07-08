@@ -51,14 +51,17 @@ Kokerboom Studio — a one-person web design + digital consulting practice build
 
 ## Skills
 
-Installed in `.claude/skills/` (from anthropics/skills):
+Installed in `.claude/skills/`:
 
-1. **frontend-design** ✅ installed — Forces commitment to an explicit aesthetic direction (e.g., brutalist, editorial, retro-futuristic) up front instead of overused fonts and generic SaaS layouts; enforces functional layering and strong typography scales.
+1. **frontend-design** ✅ (anthropics/skills) — Forces commitment to an explicit aesthetic direction (e.g., brutalist, editorial, retro-futuristic) up front instead of overused fonts and generic SaaS layouts; enforces functional layering and strong typography scales.
+2. **webapp-testing** ✅ (anthropics/skills) — Playwright-based browser automation to test form submissions, immediate UI feedback, and navigation across a running page or deploy preview.
+3. **responsive-design** ✅ (lotfb86/web-design-skills) — Mobile-first breakpoints, fluid typography, container queries, responsive images. Framework-agnostic, applies directly to hand-written CSS.
+4. **web-design-guidelines** ✅ (lotfb86/web-design-skills, Vercel's Web Interface Guidelines) — Reviews finished UI code against ~100 interaction/accessibility rules (contrast, touch targets, focus states, breakpoints).
 
-2. **webapp-testing** ✅ installed — Playwright-based browser automation to test form submissions, immediate UI feedback, and navigation across a running page or deploy preview.
+Deliberately skipped from lotfb86/web-design-skills: `theme-factory`, `website-rebuild`, `local-business-rebuild`, `azerbaijan-website-build`. Those assume an Astro + Tailwind v4 + Vercel pipeline, which conflicts with the stack rules above (static HTML/CSS, no build tools, deploy to Netlify). Revisit only if a project explicitly calls for that stack.
 
-Not yet installed — no official/public source found for these; need a repo URL or marketplace link to add them:
+Not yet installed — no working source found:
 
-3. **UI/UX Pro Max** — community skill for layout styles, palettes, and design stacks.
-4. **Vercel Web Design Guidelines & Linter** — audits interface code against interaction/visual design rules (contrast, touch targets, breakpoints).
-5. **Bencium Controlled UX Designer** — questionnaire-based UX discovery before building.
+5. **UI/UX Pro Max** — need a repo/marketplace link.
+6. **Bencium Controlled UX Designer** — need a repo/marketplace link.
+7. **Astro website skill (Leon Furze)** — blog post is bot-blocked; need the direct GitHub URL. Also likely the same Astro/Tailwind/Vercel conflict as above.
