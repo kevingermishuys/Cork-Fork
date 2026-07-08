@@ -51,17 +51,14 @@ Kokerboom Studio — a one-person web design + digital consulting practice build
 
 ## Skills
 
-Download and apply these skills:
+Installed in `.claude/skills/` (from anthropics/skills):
 
-1. **Anthropic Frontend Design** — This official skill prevents Claude from relying on overused fonts (like Inter or Roboto) and basic SaaS card grids. It forces the model to commit to an explicit aesthetic direction (e.g., brutalist, editorial, retro-futuristic) up front and enforces functional layering and strong typography scales.
-   What to do: Install the Anthropic Frontend Design skill to define coherent design languages rather than generic outputs.
+1. **frontend-design** ✅ installed — Forces commitment to an explicit aesthetic direction (e.g., brutalist, editorial, retro-futuristic) up front instead of overused fonts and generic SaaS layouts; enforces functional layering and strong typography scales.
 
-2. **UI/UX Pro Max** — This community skill gives Claude a vast database of layout styles, palettes, and design stacks. It acts as a design partner that understands how to guide user attention and build highly immersive, niche-specific frontends.
-   What to do: Search community skills in your agent's ecosystem to grab the UI/UX Pro Max tool.
+2. **webapp-testing** ✅ installed — Playwright-based browser automation to test form submissions, immediate UI feedback, and navigation across a running page or deploy preview.
 
-3. **Vercel Web Design Guidelines & Linter** — Ensures interface code matches modern web standards by auditing it against over 100 interaction and visual design rules. It automatically intercepts common design mistakes — terrible color contrast, poor touch targets, broken responsive breakpoints.
-   What to do: Add the Vercel Web Design Guidelines to apply obsessive detail to every pixel on the screen.
+Not yet installed — no official/public source found for these; need a repo URL or marketplace link to add them:
 
-4. **Playwright CLI (Webapp Testing)** — Lets Claude use browser automation to test form submissions, immediate UI feedback (within 100ms), and navigation. Lets the agent load the newly designed web application across multiple Chrome instances to verify how it interacts in the real world.
-
-5. **Bencium Controlled UX Designer** — Uses a questionnaire-based approach to nail down the user experience before a single line of code is written. Prompts about flow structure (e.g., three-step checkout), visual identity, and interaction decisions, mapping out the architecture ahead of time.
+3. **UI/UX Pro Max** — community skill for layout styles, palettes, and design stacks.
+4. **Vercel Web Design Guidelines & Linter** — audits interface code against interaction/visual design rules (contrast, touch targets, breakpoints).
+5. **Bencium Controlled UX Designer** — questionnaire-based UX discovery before building.
