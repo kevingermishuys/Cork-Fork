@@ -4,15 +4,19 @@ Drop this file in the root of every client site repo. Fill in the Client brand b
 
 ## Client brand block
 
-_Fill in per project._
-
-- Business name:
-- What the business does:
-- Audience:
-- Tone (Afrikaans / English / mix):
-- Brand colors:
-- Logo / photos:
-- Any existing brand guidelines:
+- Business name: The Cork & Fork Restaurant
+- What it does: Casual-contemporary restaurant in Windhoek, Namibia (Centaurus Street). Breakfast through dinner, full bar/cocktails, garden + indoor seating, kids welcome. 4.3★ on TripAdvisor, ~3,300 IG followers (@thecorkandfork).
+- Hours: Tue–Sat 7am–10pm, Sun 7am–3pm, Mon closed.
+- Contact: +264 81 707 2046. Website domain TBD.
+- Audience: Local Windhoek regulars + tourists/hotel guests (reviews from Argentina, Sweden, India, US). Families welcome (kids' menu, play area on the lawn).
+- Tone: English, playful/pun-heavy ("What the fork is for dinner?", "Time to uncork and unwind", "May the fork be with you", "Tonight's forecast: 99% chance of wine") layered over a genuinely upscale-casual menu.
+- Menu highlights: Namibian Kapana beef strips, oryx game loin, butcher's block steaks (fillet/rump/T-bone/rib eye), malva pudding, crème brûlée trio — local specialties alongside international comfort food (pizza, pasta, burgers, tacos/quesadillas). Full bar with signature cocktails. Platters to share, full kids' menu.
+- Brand colors: mustard/gold (`cork`) + maroon/burgundy (`fork`) from the wordmark, sage-green textured wallpaper indoors, warm dark wood furniture, brick-paved garden patio.
+- Logo: hand-drawn line-art wine bottle pouring into a fork, forming a cursive "The"; "cork" (mustard) + "fork" (maroon) below, "restaurant" subtitle in grey.
+- Signature ambiance: stretch-tent shaded garden patio, large lawn with gazebos and a kids' play area, indoor dining room with punny framed poster art on sage wallpaper, glass-walled corridor bar with string lighting opening onto the garden.
+- Assets on hand: logo, full menu (all categories, priced in N$), a handful of decent original photos (garden lawn, two interior/patio shots, one Instagram wine-pairing graphic), plus lower-res TripAdvisor review photos. Treat as preview-quality — crop to fit; swap for real photography later.
+- Site goal: equal weight on visual storytelling (photos/menu/ambiance) and driving a visit — phone number and location/hours should be persistently visible as the de facto "booking" CTA (no online reservation system).
+- Menu display: full menu on-page (not a PDF link), organized by category.
 
 ## Who I am
 
